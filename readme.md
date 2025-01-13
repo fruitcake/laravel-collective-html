@@ -1,12 +1,16 @@
 ![LaravelCollective HTML](LaravelCollectiveHTML-banner.png)
 
-[![Build Status](https://travis-ci.org/LaravelCollective/html.svg)](https://travis-ci.org/LaravelCollective/html)
-[![Total Downloads](https://poser.pugx.org/LaravelCollective/html/downloads)](https://packagist.org/packages/laravelcollective/html)
-[![Latest Stable Version](https://poser.pugx.org/LaravelCollective/html/v/stable.svg)](https://packagist.org/packages/laravelcollective/html)
-[![Latest Unstable Version](https://poser.pugx.org/LaravelCollective/html/v/unstable.svg)](https://packagist.org/packages/laravelcollective/html)
-[![License](https://poser.pugx.org/LaravelCollective/html/license.svg)](https://packagist.org/packages/laravelcollective/html)
+[![Unit Tests](https://github.com/fruitcake/laravel-collective-html/actions/workflows/run-tests.yml/badge.svg)](https://github.com/fruitcake/laravel-collective-html/actions)
+[![Packagist License](https://img.shields.io/badge/Licence-MIT-blue)](http://choosealicense.com/licenses/mit/)
+[![Latest Stable Version](https://img.shields.io/packagist/v/fruitcake/laravel-collective-html?label=Stable)](https://packagist.org/packages/fruitcake/laravel-collective-html)
+[![Total Downloads](https://img.shields.io/packagist/dt/fruitcake/laravel-collective-html?label=Downloads)](https://packagist.org/packages/fruitcake/laravel-collective-html)
+[![Fruitcake](https://img.shields.io/badge/Powered%20By-Fruitcake-b2bc35.svg)](https://fruitcake.nl/)
 
+## Replacement for laravelcollective/html
 Official documentation for Forms & Html for The Laravel Framework can be found at the [LaravelCollective](https://laravelcollective.com/docs) website.
 
-## Replacement
-If you're looking to replace this package due to it's retirement we recommend using [Shift](https://laravelshift.com/convert-laravelcollective-html-to-spatie-laravel-html)
+This is just a fork with Laravel 11 support.
+
+### Changes
+ - FormBuilder::selectMonth() now uses the Carbon::translatedFormat() format instead of strftime()
+
