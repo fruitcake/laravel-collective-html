@@ -6,3 +6,4 @@
 phpunit.php export-ignore
 phpunit.xml export-ignore
 LaravelCollectiveHTML-banner.png export-ignore
+/.github
