@@ -1,6 +1,6 @@
 ![LaravelCollective HTML](LaravelCollectiveHTML-banner.png)
 
-[![Unit Tests](https://github.com/fruitcake/laravel-collective-html/actions/workflows/run-tests.yml/badge.svg)](https://github.com/fruitcake/laravel-collective-html/actions)
+[![Unit Tests](https://github.com/fruitcake/laravel-collective-html/actions/workflows/run-tests.yaml/badge.svg)](https://github.com/fruitcake/laravel-collective-html/actions)
 [![Packagist License](https://img.shields.io/badge/Licence-MIT-blue)](http://choosealicense.com/licenses/mit/)
 [![Latest Stable Version](https://img.shields.io/packagist/v/fruitcake/laravel-collective-html?label=Stable)](https://packagist.org/packages/fruitcake/laravel-collective-html)
 [![Total Downloads](https://img.shields.io/packagist/dt/fruitcake/laravel-collective-html?label=Downloads)](https://packagist.org/packages/fruitcake/laravel-collective-html)
