@@ -2,11 +2,6 @@
     "name": "fruitcake/laravel-collective-html",
     "description": "HTML and Form Builders for the Laravel Framework",
     "license": "MIT",
-    "homepage": "https://laravelcollective.com",
-    "support": {
-        "issues": "https://github.com/LaravelCollective/html/issues",
-        "source": "https://github.com/LaravelCollective/html"
-    },
     "authors": [
         {
             "name": "Adam Engebretson",
@@ -18,7 +13,7 @@
         }
     ],
     "require": {
-        "php": ">=8.1",
+        "php": "^8.1",
         "illuminate/http": "^10|^11",
         "illuminate/routing": "^10|^11",
         "illuminate/session": "^10|^11",
